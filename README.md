@@ -6,9 +6,9 @@ This repository contains all the assignments for the Advanced Deep Learning cour
 ## Table of Contents
 This repo contains assignments related to the following Machine Learning algorithm:
 - [Data augmentation and transfer learning](transfer-learning)
-- [Generative Adversarial Network (GAN)](advanced-deep-learning-assignments/GAN)
-- [Reinforcement Learning (RL)](advanced-deep-learning-assignments/reinforcement-learning)
-- [Sentiment analysis with BERT](advanced-deep-learning-assignments/BERT)
+- [Generative Adversarial Network (GAN)](GAN)
+- [Reinforcement Learning (RL)](reinforcement-learning)
+- [Sentiment analysis with BERT](BERT)
 
 ## Getting started
 To get started with this repository, simply clone the repository onto your local machine using the following command: `git clone https://github.com/pdynhi/advanced-deep-learning-assignments.git`
